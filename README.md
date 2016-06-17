@@ -1,13 +1,14 @@
-# address-book
+# Movie Ticket
 
 ##### Epicodus Section: JavaScript OO - Address Book
 
-#### By Epicodus Lessons
+#### By Maldon Meehan and Halle Williams, June 15, 2016
 
 ## Description
 
-This application is a demonstration of constructors and prototypes using JavaScript to create a simple Address Book app.
+This is an Epicodus student project to create a webpage where a user can select the name of a movie, the time of day that they would like to see the movie and their age. The webpage will let them know how much their movie ticket will cost, based on those three factors. Consider that non-"first-release" movies, matinee and senior tickets tend to be cheaper than the regular priced ticket.
 
+* This is a lesson to use constructor and prototypes.
 
 ## Specifictions
 Behavior  | Input Example | Output Example
@@ -18,7 +19,7 @@ Choose age, $2 will be subtracted from ticket price if they are senior or youth,
 
 ## Setup
 
-Install address-book by cloning this repository.
+Install Movie Tickets by cloning this repository.
 
 
 ## Technologies Used
